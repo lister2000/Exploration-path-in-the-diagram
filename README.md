@@ -154,11 +154,6 @@ cd Exploration-path-in-the-diagram
 欢迎提交 Issue 和 Pull Request！
 
 1. Fork 本仓库
-2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的改动 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开一个 Pull Request
-
 ---
 
 ## 📄 许可证
