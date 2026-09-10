@@ -2,7 +2,7 @@
 <img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/images/reame.png" />
 
 
-# 🔍 SearchPath - 路径搜索算法库
+# 🔍 SearchPath - 路径搜索算法探索
 
 [![GitHub stars](https://img.shields.io/github/stars/lister2000/myacademy?style=social)](https://github.com/lister2000/myacademy/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
