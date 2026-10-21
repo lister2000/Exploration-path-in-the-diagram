@@ -1,5 +1,5 @@
 !密封胶路路径查找
-<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/images/reame.png" />
+<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/reame.png" />
 
 
 # 🔍 SearchPath - 路径搜索算法探索
