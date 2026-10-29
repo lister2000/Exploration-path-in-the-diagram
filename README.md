@@ -1,3 +1,8 @@
+## 📖 界面预览
+
+| 首页 | 详情 | 设置 |
+| :---: | :---: | :---: |
+| ![首页](https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/%E7%95%8C%E9%9D%A2.png) | ![详情](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/Lister.png) | ![设置](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/animation.gif) |
 
 <img width="1079" height="538" alt="reame" src="https://github.com/lister2000/EtherNet-IP-/blob/master/Images/wellcome.jpg" />
 !密封胶路路径查找
@@ -146,14 +151,6 @@ test.py
 <div align="center">
   <sub>Made with ❤️ by <a href="https://github.com/lister2000">Lister</a></sub>
 </div>
-
-
-## 📖 界面预览
-
-| 首页 | 详情 | 设置 |
-| :---: | :---: | :---: |
-| ![首页](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/wellcome.jpg) | ![详情](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/Lister.png) | ![设置](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/animation.gif) |
-
 
 [⬆ 返回顶部](#-目录导航)
 
