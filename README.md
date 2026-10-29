@@ -15,7 +15,6 @@
 - [✨ 项目简介](#-项目简介)
 - [🧩 算法导航](#-算法导航)
 - [📦 快速开始](#-快速开始)
-- [🤝 贡献指南](#-贡献指南)
 - [📄 实例应用](#-实例应用)
 ---
 
@@ -111,21 +110,12 @@
                                                                  
 ─────────────────────────────────────────────────────────────────
 
-路径分叉:
+路径分叉:最长路径:
 ┌─────────────────────────────────────────────────────────────┐
 │                  ●                                          │
 │                 /                                           │
 │                /                                            │
 │               /                                             │
-│  ●───────────●───────────●───────────●───────────●          │
-│              │                                              │
-│              │                                              │
-│              ●───────────●───────────●                      │ ← 分叉
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-                    ↓ Dijkstra
-最长路径:
-┌─────────────────────────────────────────────────────────────┐
 │  ●───────────●───────────●───────────●───────────●          │ ← 选择最长的分支
 │              │                                              │
 │              │                                              │
@@ -147,9 +137,6 @@ cd Exploration-path-in-the-diagram
 
  python main.py
 
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
 
 1. Fork 本仓库
 ---
@@ -164,10 +151,12 @@ test.py
 </div>
 
 
+## 📖 界面预览
+
 | 首页 | 详情 | 设置 |
 | :---: | :---: | :---: |
+| ![首页](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/wellcome.jpg) | ![详情](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/Lister.png) | ![设置](https://raw.githubusercontent.com/lister2000/EtherNet-IP-/master/Images/animation.gif) |
 
-<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/%E7%95%8C%E9%9D%A2.png" />
 
 [⬆ 返回顶部](#-目录导航)
 
