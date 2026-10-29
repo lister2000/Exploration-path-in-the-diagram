@@ -1,16 +1,14 @@
-!密封胶路路径查找
-# 🔍 SearchPath - 路径搜索算法探索
-<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/EtherNet-IP-/blob/master/Images/wellcome.jpg" />
 
+<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/EtherNet-IP-/blob/master/Images/wellcome.jpg" />
+!密封胶路路径查找
+<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/reame.png" />
+
+# 🔍 SearchPath - 路径搜索算法探索
 ![GitHub stars](https://img.shields.io/github/stars/lister2000/myacademy?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/lister2000/myacademy?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/lister2000/myacademy?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lister2000/myacademy)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/reame.png" />
----
-
 ## 📖 目录导航
 
 - [✨ 项目简介](#-项目简介)
@@ -92,9 +90,7 @@
 ─────────────────────────────────────────────────────────────────
                       提取路径算法流程                          
 ─────────────────────────────────────────────────────────────────
-                                                                 
-  二值图 (黑白)                                                  
-       ↓                                                        
+                                                                                                                   
   步骤1: 骨骼化 (Skeletonization)                               
        ↓                                                        
   步骤2: 去毛刺 (Prune Short Branches)                          
