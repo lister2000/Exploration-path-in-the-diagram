@@ -1,10 +1,10 @@
 
 
 <img width="1079" height="538" alt="reame" src="https://github.com/lister2000/EtherNet-IP-/blob/master/Images/wellcome.jpg" />
-!密封胶路路径查找
+!密封路径查找
 <img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/reame.png" />
 
-# 🔍 SearchPath - 路径搜索算法探索
+# 🔍 Exploration-path - 探索路径搜索算法
 ![GitHub stars](https://img.shields.io/github/stars/lister2000/myacademy?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/lister2000/myacademy?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/lister2000/myacademy?style=social)
@@ -20,7 +20,7 @@
 
 ## ✨ 项目简介
 
-**SearchPath** 是关于路径搜索的算法探索，提供了三种不同的算法实现：
+路径搜索的算法探索，提供了不同的算法实现：
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 1. 区域扫描算法 (Region Scanning)
 
-> 📍 **算法简介**：通过划分搜索区域，逐块扫描寻找最优路径。
+📍 **算法简介**：通过划分搜索区域，逐块扫描寻找最优路径。
 
 #### 核心原理
 ```
@@ -36,7 +36,7 @@
                       区域扫描算法流程                          
 ─────────────────────────────────────────────────────────────────
                                                                 
-  输入: 灰度图、灰度阈值、窗口高度(H)、窗口宽度(W)                   
+  输入: 灰度图、灰度阈值、窗口高度、窗口宽度                   
                                                                 
   步骤1: 在图像上滑动矩形窗口 (H × W)                            
          从左上角开始，步长为1像素                                 
@@ -54,7 +54,6 @@
                                                                  
   输出: 二值图 (黑色背景，白色标记)                                 
                                                                   
-─────────────────────────────────────────────────────────────────
 
 ─────────────────────────────────────────────────────────────────
                       窗口内判断                                  
@@ -108,7 +107,7 @@
                                                                  
 ─────────────────────────────────────────────────────────────────
 
-路径分叉:最长路径:
+路径分叉and最长路径:
 ┌─────────────────────────────────────────────────────────────┐
 │                  ●                                          │
 │                 /                                           │
@@ -135,8 +134,6 @@ cd Exploration-path-in-the-diagram
 
  python main.py
 
-
-1. Fork 本仓库
 ---
 
 ## 📄 实例应用
