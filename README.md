@@ -1,5 +1,6 @@
 
 
+<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/bird.png" />
 <img width="1079" height="538" alt="reame" src="https://github.com/lister2000/EtherNet-IP-/blob/master/Images/wellcome.jpg" />
 !密封路径查找
 <img width="1079" height="538" alt="reame" src="https://github.com/lister2000/Exploration-path-in-the-diagram/blob/master/Images/reame.png" />
